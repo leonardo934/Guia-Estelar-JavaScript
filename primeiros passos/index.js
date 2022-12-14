@@ -53,18 +53,27 @@ console.log([
 
 
 
+//Conhecendo as variáveis
+
+//var
+var climav = "Quente"
+climav = "Frio"
+
+console.log(climav)
 
 
+//let
+let climal = "Quente"
+climal = "Frio"
+
+console.log(climal)
 
 
+//cont
+const climac = "Quente"
+// climac = "Frio"
 
-
-
-
-
-
-
-
+console.log(climac)
 
 
 
