@@ -14,3 +14,51 @@ console.log(12.666 + 654)
 console.log(12.666 / "asdf")
 console.log(12.666 === Infinity)
 console.log(Infinity)
+
+//console.log(true != false)
+
+console.log(1 + 2 === 12)
+console.log(6 + 6 === 12)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
