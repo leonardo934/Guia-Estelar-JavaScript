@@ -83,3 +83,22 @@ climald = ""
 
 console.log(typeof climald)
 
+//Scope e var
+
+var x
+console.log('> existe x antes do bloc?', x)
+
+{
+    x = 0
+}
+
+console.log('> existe x depois do blovo?', x)
+
+
+
+
+
+
+
+
+
