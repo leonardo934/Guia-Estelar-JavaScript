@@ -4,7 +4,7 @@ console.log("Sabia q Pão é bom?")
 //console.log("Leonardo ${1+1*1/1-1}")
 
 
-console.log(`Leonardo ${1+1*1/1-1}`)
+console.log(`Leonardo ${1 + 1 * 1 / 1 - 1}`)
 
 //console.log(Infinity)
 
@@ -30,13 +30,15 @@ console.log(undefined === null)
 
 
 
+//console.log(Object)
 
-
-
-
-
-
-
+console.log({
+    name: "Leonardo",
+    idade: 13,
+    andar: () => {
+        console.log('andar')
+    }
+})
 
 
 
