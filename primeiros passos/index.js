@@ -41,7 +41,15 @@ console.log({
 })
 
 
+//console.log(Array)
 
+console.log([
+    "Leite",
+    "Ovos",
+    "Manteiga",
+    1,
+    2
+])
 
 
 
