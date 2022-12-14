@@ -79,7 +79,7 @@ console.log(climac)
 
 //Tipos dinâmicos
 let climald = true 
-clomald = ""
+climald = ""
 
 console.log(typeof climald)
 
