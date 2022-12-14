@@ -22,11 +22,11 @@ console.log(6 + 6 === 12)
 
 
 
+//console.log(Undefined vs null)
 
 
 
-
-
+console.log(undefined === null)
 
 
 
