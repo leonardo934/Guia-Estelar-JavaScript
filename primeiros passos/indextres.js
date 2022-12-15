@@ -6,3 +6,10 @@ const person = {
 }
 
 console.log(`${person.name} tem ${person.age} anos, e ${person.weight} de peso`)
+
+
+
+
+
+
+
