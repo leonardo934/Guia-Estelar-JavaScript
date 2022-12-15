@@ -96,14 +96,6 @@ console.log('> existe x depois do blovo?', x)
 
 
 
-//Declaration assignment var
-
-var name
-
-name ="Leonardo"
-
-console.log( name)
-
 
 
 
