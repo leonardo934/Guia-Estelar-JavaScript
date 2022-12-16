@@ -23,3 +23,16 @@ function fazerSuco(fruta1, fruta2) {
 const copo = fazerSuco('Maçã', 'Banana')
 
 console.log(copo)
+
+
+let subject
+
+function createThink() {
+    subject = 'study'
+}
+
+console.log(subject)
+createThink()
+console.log(subject)
+
+
