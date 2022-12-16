@@ -1,9 +1,9 @@
 let total = 0
 
 
-const sum = function(number1, number2) {
+const sum = function (number1, number2) {
     total = number1 + number2
-return total
+    return total
 }
 
 
@@ -16,6 +16,10 @@ console.log(number1, number2)
 
 
 
+function fazerSuco(fruta1, fruta2) {
+    return'suco de: ' + fruta1 + ' ' + fruta2
+}
 
+const copo = fazerSuco('Maçã', 'Banana')
 
-
+console.log(copo)
