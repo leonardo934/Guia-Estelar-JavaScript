@@ -20,5 +20,5 @@ const feline = [
     'snow leopard'
 ]
 
-console.log(feline[7])
+console.log(feline[5])
 
