@@ -36,3 +36,8 @@ createThink()
 console.log(subject)
 
 
+sayMyName()
+
+function sayMyName() {
+    console.log('Leonardo')
+}
