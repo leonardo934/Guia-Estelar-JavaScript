@@ -18,3 +18,21 @@ console.log(Number(string))
 let number = 963
 console.log(String(number))
 
+
+
+
+
+
+let word = "Paralelepipedo"
+console.log(word.length)
+let number = 12963
+console.log(String(number).length)
+
+
+
+
+
+
+
+
+
