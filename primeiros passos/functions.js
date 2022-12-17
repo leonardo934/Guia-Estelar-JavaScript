@@ -41,3 +41,10 @@ sayMyName()
 function sayMyName() {
     console.log('Leonardo')
 }
+
+
+const SayMyName = (name) => {
+    console.log(name)
+}
+
+SayMyName('Leonardo')
