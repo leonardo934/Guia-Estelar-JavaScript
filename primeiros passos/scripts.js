@@ -31,8 +31,8 @@ console.log(String(numberd).length)
 
 
 
-
-
+let numbert = 1212999666333
+console.log(numbert.toFixed(2).replace(".", ","))
 
 
 
