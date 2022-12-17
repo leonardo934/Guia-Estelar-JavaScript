@@ -25,8 +25,8 @@ console.log(String(number))
 
 let word = "Paralelepipedo"
 console.log(word.length)
-let number = 12963
-console.log(String(number).length)
+let numberd = 12963
+console.log(String(numberd).length)
 
 
 
