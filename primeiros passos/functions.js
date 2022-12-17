@@ -48,3 +48,21 @@ const SayMyName = (name) => {
 }
 
 SayMyName('Leonardo')
+
+
+
+
+function SAyMyName(name) {
+    console.log('antes de executar a funcao callback')
+
+    name()
+
+    console.log('depois de executar a callback')
+}
+
+SAyMyName(
+    () => {
+        console.log('estou em uma callback')
+    }
+)
+
