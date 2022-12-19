@@ -36,3 +36,17 @@ console.log(numbert.toFixed(2).replace(".", ","))
 
 
 
+let words = "Programar é muito bacana!"
+console.log(words.toLowerCase().toUpperCase())
+
+
+
+
+
+
+
+
+
+
+
+
