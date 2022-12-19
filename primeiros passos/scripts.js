@@ -45,7 +45,7 @@ let myArray = phrase.split(" ")
 let phraseWithUnderscore = myArray.join("_")
 console.log(phraseWithUnderscore)
 
-
+console.log(phrase.includes("Amor"))
 
 
 
