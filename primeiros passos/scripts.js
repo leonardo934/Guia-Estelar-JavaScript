@@ -48,5 +48,5 @@ console.log(phraseWithUnderscore)
 console.log(phrase.includes("Amor"))
 
 
-
-
+let myArrays = new Array('a','b','c')
+console.log(myArrays)
