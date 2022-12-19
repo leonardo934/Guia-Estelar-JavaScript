@@ -40,10 +40,10 @@ let words = "Programar é muito bacana!"
 console.log(words.toLowerCase().toUpperCase())
 
 
-
-
-
-
+let phrase = "Eu quero viver o Amor!"
+let myArray = phrase.split(" ")
+let phraseWithUnderscore = myArray.join("_")
+console.log(phraseWithUnderscore)
 
 
 
