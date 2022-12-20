@@ -98,9 +98,9 @@ decrement--
 console.log(333666999 ** 2)
 
 
+let totals = 5 - 5 + 5 * 5 / 5
 
-
-
+console.log(totals)
 
 
 
