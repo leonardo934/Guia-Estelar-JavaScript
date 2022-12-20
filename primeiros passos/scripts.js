@@ -129,8 +129,9 @@ let queijo = false
 console.log(!pao)
 
 
-
-
+let ager = 17
+const canDrive = ager >= 18 ? 'can drive' : "dan't drive"
+console.log(canDrive)
 
 
 
