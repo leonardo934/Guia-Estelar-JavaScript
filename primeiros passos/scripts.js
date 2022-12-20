@@ -92,10 +92,10 @@ console.log(persons)
 
 
 
+let decrement = 0
+decrement--
 
-
-
-
+console.log(333666999 ** 2)
 
 
 
