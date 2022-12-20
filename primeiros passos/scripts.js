@@ -59,5 +59,13 @@ let wordr = "Methionylthreonylthreonylglutaminylarginyltyrosylglutamylserylleucy
 console.log(Array.from(wordr))
 
 
+let techs = ["html","css","js"]
+techs.push("nodejs")
+techs.unshift("sql")
+techs.pop()
+techs.shift()
 
+let index = techs.indexOf('nodejs')
+techs.splice(index, 1)
 
+console.log(techs)
