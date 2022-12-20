@@ -123,19 +123,10 @@ console.log( one <= 0)
 
 
 
+let pao = true
+let queijo = false
 
-
-
-
-
-
-
-
-
-
-
-
-
+console.log(!pao)
 
 
 
