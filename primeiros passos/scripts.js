@@ -81,14 +81,13 @@ console.log(dates.__proto__)
 
 
 
+const persons = {
+    names: 'Leonardo',
+    agess: 13,
+}
+delete persons.agess
 
-
-
-
-
-
-
-
+console.log(persons)
 
 
 
