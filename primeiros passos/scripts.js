@@ -135,9 +135,9 @@ console.log(canDrive)
 
 
 
-
-
-
+let alpha = 'alpha'
+alpha += 'bet'
+console.log(alpha + 369)
 
 
 
