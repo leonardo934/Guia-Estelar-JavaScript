@@ -218,10 +218,12 @@ while(i > 10) {
 
 
 
+let namer = 'Leonardo'
+let namers = ['João','Paulo','Pedro']
 
-
-
-
+for(let namer of namers) {
+    console.log(namer)
+}
 
 
 
