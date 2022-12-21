@@ -226,15 +226,15 @@ for(let namer of namers) {
 }
 
 
-let person = {
+let personss = {
     narme: 'John',
     agers: 25,
     weight: 45.2
 }
 
-for(let property in person) {
+for(let property in personss) {
     console.log(property)
-    console.log(person[property])
+    console.log(personss[property])
 }
 
 
