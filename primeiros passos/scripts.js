@@ -209,9 +209,12 @@ for(let i = 12; i > 0; i--) {
 }
 
 
+let i = 369
+while(i > 10) {
+    console.log(i)
 
-
-
+    i /= 5
+}
 
 
 
