@@ -201,7 +201,12 @@ console.log('após ao try/catch')
 
 
 
-
+for(let i = 12; i > 0; i--) {
+    if(i === 6) {
+        continue
+    }
+    console.log(i)
+}
 
 
 
