@@ -226,9 +226,16 @@ for(let namer of namers) {
 }
 
 
+let person = {
+    narme: 'John',
+    agers: 25,
+    weight: 45.2
+}
 
-
-
+for(let property in person) {
+    console.log(property)
+    console.log(person[property])
+}
 
 
 
